@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/homework-06-phonebook/static/css/main.b6deba22.chunk.css",
+    "main.js": "/homework-06-phonebook/static/js/main.f641dfb2.chunk.js",
+    "main.js.map": "/homework-06-phonebook/static/js/main.f641dfb2.chunk.js.map",
+    "runtime-main.js": "/homework-06-phonebook/static/js/runtime-main.3a11a41a.js",
+    "runtime-main.js.map": "/homework-06-phonebook/static/js/runtime-main.3a11a41a.js.map",
+    "static/js/2.a0716119.chunk.js": "/homework-06-phonebook/static/js/2.a0716119.chunk.js",
+    "static/js/2.a0716119.chunk.js.map": "/homework-06-phonebook/static/js/2.a0716119.chunk.js.map",
+    "index.html": "/homework-06-phonebook/index.html",
+    "static/css/main.b6deba22.chunk.css.map": "/homework-06-phonebook/static/css/main.b6deba22.chunk.css.map",
+    "static/js/2.a0716119.chunk.js.LICENSE.txt": "/homework-06-phonebook/static/js/2.a0716119.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a11a41a.js",
+    "static/js/2.a0716119.chunk.js",
+    "static/css/main.b6deba22.chunk.css",
+    "static/js/main.f641dfb2.chunk.js"
+  ]
+}
